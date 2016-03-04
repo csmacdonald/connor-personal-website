@@ -1,1 +1,26 @@
 /* All style should go in this document. */
+body {
+  font-family: "Helvetica", sans-serif;
+}
+
+section.main {
+  background-color: #D7F4F7;
+  border-radius: 10px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2em;
+  color: #07A9BA;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+p {
+  margin-left: 3%;
+  margin-right: 3%;
+}
